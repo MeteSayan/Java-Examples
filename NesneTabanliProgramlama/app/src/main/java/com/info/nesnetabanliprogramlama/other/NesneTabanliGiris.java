@@ -1,4 +1,6 @@
-package com.info.nesnetabanliprogramlama;
+package com.info.nesnetabanliprogramlama.other;
+
+import com.info.nesnetabanliprogramlama.object.Araba;
 
 public class NesneTabanliGiris {
 

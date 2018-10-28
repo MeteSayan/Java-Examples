@@ -1,4 +1,4 @@
-package com.info.nesnetabanliprogramlama;
+package com.info.nesnetabanliprogramlama.object;
 
 public class Islemler {
 

@@ -1,4 +1,6 @@
-package com.info.nesnetabanliprogramlama;
+package com.info.nesnetabanliprogramlama.main;
+
+import com.info.nesnetabanliprogramlama.object.Islemler;
 
 public class IslemlerMain {
 
