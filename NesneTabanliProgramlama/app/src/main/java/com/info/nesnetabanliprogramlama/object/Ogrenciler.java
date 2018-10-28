@@ -2,9 +2,9 @@ package com.info.nesnetabanliprogramlama.object;
 
 public class Ogrenciler {
 
-    String isim;
-    int okulNo;
-    String adres;
+    public String isim;
+    public int okulNo;
+    public String adres;
 
     public Ogrenciler(){
 

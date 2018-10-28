@@ -4,10 +4,10 @@ public class Otobus {
 
     //özellikler
 
-    int kapasite;
-    int mevcutYolcu;
-    String nereden;
-    String nereye;
+    public int kapasite;
+    public int mevcutYolcu;
+    public String nereden;
+    public String nereye;
 
     public void bilgiAl(){
 

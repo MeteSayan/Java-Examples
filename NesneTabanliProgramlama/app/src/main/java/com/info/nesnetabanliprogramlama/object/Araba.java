@@ -2,10 +2,10 @@ package com.info.nesnetabanliprogramlama.object;
 
 public class Araba {
 
-    String renk;
-    int hiz;
-    double uzunluk;
-    boolean calisiyorMu;
+    public String renk;
+    public int hiz;
+    public double uzunluk;
+    public boolean calisiyorMu;
 
     //metod davranışı
 
