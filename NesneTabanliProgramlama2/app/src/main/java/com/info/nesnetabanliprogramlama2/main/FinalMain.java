@@ -1,6 +1,6 @@
 package com.info.nesnetabanliprogramlama2.main;
 
-import com.info.nesnetabanliprogramlama2.object.Renkler;
+import com.info.nesnetabanliprogramlama2.objects.Renkler;
 
 public class FinalMain {
 

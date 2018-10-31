@@ -1,7 +1,7 @@
 package com.info.nesnetabanliprogramlama2.main;
 
-import com.info.nesnetabanliprogramlama2.object.Matematik;
-import com.info.nesnetabanliprogramlama2.object.Personel;
+import com.info.nesnetabanliprogramlama2.objects.Matematik;
+import com.info.nesnetabanliprogramlama2.objects.Personel;
 
 public class StaticMain {
 

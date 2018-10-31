@@ -1,7 +1,7 @@
 package com.info.nesnetabanliprogramlama2.main;
 
-import com.info.nesnetabanliprogramlama2.object.Ogrenciler;
-import com.info.nesnetabanliprogramlama2.object.Urunler;
+import com.info.nesnetabanliprogramlama2.objects.Ogrenciler;
+import com.info.nesnetabanliprogramlama2.objects.Urunler;
 
 public class AccessMain {
 

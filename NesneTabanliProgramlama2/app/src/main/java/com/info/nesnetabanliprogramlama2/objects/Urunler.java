@@ -1,4 +1,4 @@
-package com.info.nesnetabanliprogramlama2.object;
+package com.info.nesnetabanliprogramlama2.objects;
 
 public class Urunler {
 
