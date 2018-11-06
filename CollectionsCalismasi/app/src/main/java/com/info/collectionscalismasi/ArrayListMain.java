@@ -1,6 +1,7 @@
 package com.info.collectionscalismasi;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayListMain {
 
@@ -24,6 +25,9 @@ public class ArrayListMain {
         meyveler.add(1, "mandalina");
 
         meyveler.set(3, "avakado");
+
+
+        Collections.sort(meyveler);
 
         for (String s: meyveler
              ) {
