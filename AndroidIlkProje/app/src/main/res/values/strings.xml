@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidIlkProje</string>
+    <string name="baslik">Uygulama Başlığı</string>
+    <string name="karsilama_mesaj">Merhaba Dünya</string>
+    <string name="mesaj">Nasılsınız ?</string>
 </resources>
