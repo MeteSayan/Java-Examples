@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Design</string>
+    <string name="username">Nom d'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">S'identifier</string>
+    <string name="help">Aidez-moi !</string>
+</resources>
