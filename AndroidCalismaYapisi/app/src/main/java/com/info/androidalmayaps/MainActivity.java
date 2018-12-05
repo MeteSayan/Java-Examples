@@ -26,7 +26,19 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent yeniIntent = new Intent(MainActivity.this,SecondActivity.class);
 
+               /* yeniIntent.putExtra("mesaj", "Merhaba");
+                yeniIntent.putExtra("yas", 19);
+                yeniIntent.putExtra("boy", 1.92);
+                yeniIntent.putExtra("bekarmi", true);*//*
+
+               Kisiler kisi = new Kisiler("Mete", 19, 1.92, true);
+
+               yeniIntent.putExtra("nesne", kisi);*/
+
+
                 startActivity(yeniIntent);
+
+
 
 
             }
