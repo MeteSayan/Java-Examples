@@ -24,6 +24,7 @@ public class FourthActivity extends AppCompatActivity {
                 Intent i = new Intent(FourthActivity.this,SecondActivity.class) ;
 
                 startActivity(i);
+                finish();
             }
         });
 

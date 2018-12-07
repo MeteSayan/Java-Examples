@@ -24,7 +24,7 @@ public class ThirdActivity extends AppCompatActivity {
                 Intent i = new Intent(ThirdActivity.this,FourthActivity.class);
 
                 startActivity(i);
-
+                finish();
 
             }
         });

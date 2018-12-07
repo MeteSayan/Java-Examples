@@ -25,6 +25,7 @@ public class SecondActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i = new Intent(SecondActivity.this,ThirdActivity.class);
                 startActivity(i);
+                finish();
             }
         });
 
@@ -38,4 +39,13 @@ public class SecondActivity extends AppCompatActivity {
         textViewMsj.setText(gelenKisi.getIsim() + " - " + gelenKisi.getYas() + " - " + gelenKisi.getBoy() + " - " + gelenKisi.isBekarMi() );*/
 
     }
+
+   /* @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+
+        Intent i = new Intent(SecondActivity.this,MainActivity.class);
+        startActivity(i);
+
+    }*/
 }
